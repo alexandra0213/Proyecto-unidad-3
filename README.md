@@ -26,12 +26,13 @@ En esta sección, se presenta la estructura general del sitio, incluyendo la dis
 #### Bocetos de Secciones
 
 1. **Boceto de Sección 1**
-   ![Boceto de Sección 1](ruta/a/tu/imagen-seccion1.png)
+   ![Boceto de Sección 1](./assets/img/seccion2.jpeg)
    
 2. **Boceto de Sección 2**
-   ![Boceto de Sección 2](ruta/a/tu/imagen-seccion2.png)
+   ![Boceto de Sección 2](./assets/img/seccion3.jpeg)
 
 3. **Boceto de Sección 3**
-   ![Boceto de Sección 3](ruta/a/tu/imagen-seccion3.png)
+   ![Boceto de Sección 3](./assets/img/seccion4.jpeg)
 
 Estos bocetos nos sirvieron como referencia para organizar la información, diseñar plantillas y asegurar una navegación fluida en el sitio.
+##
