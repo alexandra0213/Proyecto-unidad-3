@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&display=swap");
+
+body {
+  /*background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4862cebc-a29e-43c8-a9df-5b0889d30ed4/dg8bruq-ab5c045f-cd25-43e9-9f50-d5b7cb37e199.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ4NjJjZWJjLWEyOWUtNDNjOC1hOWRmLTViMDg4OWQzMGVkNFwvZGc4YnJ1cS1hYjVjMDQ1Zi1jZDI1LTQzZTktOWY1MC1kNWI3Y2IzN2UxOTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.n2BrxzuDWGxXmWcJgbLLbSZXQwaa6Ymc-rYmjvrXjEE);*/
+  background-color: rgb(255, 249, 240);
+  background-size: cover;
+  font-family: "Bangers", system-ui;
+}
+
+ul {
+  list-style-type: none;
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: space-around;
+}
+
+button {
+  background-color: #ec8531;
+  border: none;
+  border-radius: 30px;
+  padding: 0.5rem;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: 600;
+  width: 100px;
+}
+button:hover {
+  transform: scale(1.1);
+}
+
+header {
+  padding-block: 1rem;
+  box-shadow: 0 0 2rem -1rem rgb(0, 0, 0);
+}
+
+main {
+  padding: 2rem;
+}
+
+.personaje-imagen img {
+  width: 100%;
+  max-width: 6rem;
+}
+
+.personaje {
+  border-radius: 1rem;
+  background-color: #fff;
+  width: 250px;
+  box-shadow: 0 0 3rem -1rem rgb(0, 0, 0, 0.25);
+  padding-block: 1rem;
+  text-transform: uppercase;
+}
+
+.personaje-imagen {
+  padding-inline: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.personaje-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding-inline: center;
+  text-align: center;
+}
+
+.nombre-container {
+  display: flex;
+  align-items: center;
+  column-gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.personaje-nombre {
+  font-size: 1.4rem;
+  margin: 0 auto;
+  padding: 0.5rem;
+}
+
+.clan {
+  background-color: #ec8531;
+  border-radius: 30px;
+  width: 70px;
+  margin: 0 auto;
+}
+
+#todos {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 900px;
+  margin: 0 auto;
+}
