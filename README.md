@@ -56,11 +56,11 @@ La web está diseñada para ofrecer una experiencia interactiva al explorar los 
 
 ## Estructura de la Web
 
-| Sección         | Descripción                                              | Imagen                                  |
-|-----------------|----------------------------------------------------------|-----------------------------------------|
-| **Portada**     | Página de bienvenida con una invitación del protagonista | ![Portada](./assets/img/portada.jpeg)   |
-| **Página de Inicio** | Lista de todos los personajes de la serie                 | ![Inicio](./assets/img/inicio.jpeg)     |
-| **Categorías**  | Botones para filtrar personajes por clan y aldea         | ![Categorías](./assets/img/categorias.jpeg) |
+| Sección         | Descripción                                              
+|-----------------|----------------------------------------------------------|
+| **Portada**     | Página de bienvenida con una invitación del protagonista | 
+| **Página de Inicio** | Lista de todos los personajes de la serie                 
+| **Categorías**  | Botones para filtrar personajes por clan y aldea         | 
 
 ## Datos y Estadísticas
 
@@ -75,7 +75,7 @@ Para proporcionar una visión más clara de la información que se presenta, aqu
 | **Hyuga**      | 8                     |
 | **Aburame**    | 6                     |
 
-![Distribución por Clan](./assets/img/distribucion-clan.png)
+![Distribución por Clan](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNnlm8H9BLWrM4Sad0JuMOynpU0Ue6Dq_m4Q&s)
 
 ### Distribución de Personajes por Aldea
 
@@ -86,7 +86,7 @@ Para proporcionar una visión más clara de la información que se presenta, aqu
 | **Iwa**        | 5                     |
 | **Kiri**       | 7                     |
 
-![Distribución por Aldea](./assets/img/distribucion-aldea.png)
+![Distribución por Aldea](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSxYO2Qr0N4j4mA6Jyz2pCZmhtQDyYJkOs6g&s)
 
 
 
